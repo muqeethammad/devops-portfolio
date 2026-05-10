@@ -1,3 +1,4 @@
+
 html {
   scroll-behavior: smooth;
 }
@@ -730,4 +731,37 @@ button:hover {
 
 .contact-item a:hover {
   color: #93c5fd;
+=======
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0d1117;
+  color: white;
+}
+
+section {
+  padding: 60px;
+  text-align: center;
+}
+
+.hero {
+  background: linear-gradient(45deg, #0d1117, #1f2937);
+}
+
+h1 {
+  font-size: 48px;
+}
+
+.card {
+  background: #161b22;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 250px;
+}
+
+a {
+  color: #58a6ff;
+
 }
